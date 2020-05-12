@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register story","Register account which has not existed","IGNORED","2020-05-11T22:31:59.8856111+07:00[Asia/Saigon]","0.0","0.29"
+"Register story","Register account which is existed","SUCCESS","2020-05-11T22:32:00.7736176+07:00[Asia/Saigon]","0.0","14.97"

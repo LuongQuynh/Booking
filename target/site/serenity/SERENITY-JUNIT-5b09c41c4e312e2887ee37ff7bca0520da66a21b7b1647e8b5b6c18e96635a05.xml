@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Serenity.features.search.LoginStory" skipped="0" tests="1" time="0.91" timestamp="2020-05-12 10:43:53"><testcase classname="Serenity.features.search.LoginStory" name="Anna want to login to booking page"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+Serenity.tasks.OpenTheApplication.performAs(OpenTheApplication.java:15)&#13;
+Serenity.features.search.LoginStory.anna_want_to_login_to_Booking_page(LoginStory.java:35)&#13;
+</system-err></testcase></testsuite>

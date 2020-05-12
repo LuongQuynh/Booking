@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking story","Seek accommodation for her travel","SUCCESS","2020-05-11T15:19:16.5121875+07:00[Asia/Saigon]","0.0","20.15"
+"Register story","Register account which has not existed","IGNORED","2020-05-11T22:31:59.8856111+07:00[Asia/Saigon]","0.0","0.29"
+"Register story","Register account which is existed","SUCCESS","2020-05-11T22:32:00.7736176+07:00[Asia/Saigon]","0.0","14.97"
+"Login story","Anna want to login to booking page","SUCCESS","2020-05-12T10:40:21.2688192+07:00[Asia/Saigon]","0.0","22.84"
+"Login story","Anna want to login to booking page","ERROR","2020-05-12T10:43:53.1431293+07:00[Asia/Saigon]","0.0","0.91"
+"Login story","Anna want to login to booking page","SUCCESS","2020-05-12T10:44:19.5697668+07:00[Asia/Saigon]","0.0","21.21"

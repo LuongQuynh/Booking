@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Serenity.features.search.RegisterStory
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 18.013 s - in Serenity.features.search.RegisterStory
